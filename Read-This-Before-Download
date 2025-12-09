@@ -1,0 +1,28 @@
+1.OneNote 无便笺限制的版本
+
+2.三星笔记 可在非三星系统上使用的版本  SansungNotes on non-OneUI systems
+
+
+
+注意事项  readme:
+
+Chapter 1  三星笔记注意事项：   some issue about SamsungNotes:
+
+1.不能登录账号或同步   can not login or sync notes
+
+2.不能直接插入图片和附件，但可以把相册开成小窗来长按拖入    can not call photos app to select picture, but can drag & drop
+
+3.对于需要导入的.sdoc格式文件，可在文件管理中使用“分享”或“选择其他应用打开”来导入    use "share" or "open in other app" to import a .sdoc file
+
+4.编辑文稿之前先测试一下能否正常导出文件，以免文稿白写     test if it can successfully export file before wirtting
+
+
+声明：三星笔记安装包并非由我修改，是某位匿名大佬的杰作，目前我也不知道是谁。如果涉及版权，请在 issue 里留言告诉我。     
+
+I'd like to make it clear that this package was NOT modified by myself, it was shared by another tech guru whose identity I currently do not know. If there are any copyright concerns, please leave a message in the Issues tab.
+
+
+Chapter 2  OneNote注意事项：   some issue about OneNote
+
+1.这是一个旧版本，可以使用便笺功能。初次打开时，仍会提示无法使用，但这个软件放在手机上一段事件不管他，它会自己云控更新成新版，而这个新版是可以使用便笺的。目前我只发现这个包在华为设备上可以自己更新，但在非华为设备上没有触发过。
+
