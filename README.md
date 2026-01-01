@@ -44,6 +44,6 @@ NO.2  OneNote注意事项   Some issue about OneNote:
 
 2. Devices or systems CAN trigger upadate: 1.Huawei(HarmonyOS2.0 - 4.3 by Android10-12 Passed) 2.Xiaomi(HyperOS2.0 by Android 15 Passed). They even have different new page.
 
-3. Devices or systems CANNOT trigger upadate: 1.Samsung(OneUI4.1 - OneuUI7 Filed)
+3. Devices or systems CANNOT trigger upadate: 1.Samsung(OneUI4.1 - OneuUI7 Failed)
 
 
