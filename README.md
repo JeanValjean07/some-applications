@@ -24,7 +24,7 @@ NO.1  三星笔记注意事项     Some issue about SamsungNotes:
 
 2. Can not call photos app to select picture, but can manually start photo app as a float window, then drag your target picture & drop in SamsungNotes.
 
-3. If need import a .sdoc file, plaease use "share" or "open in other app" in a file manage app.
+3. If need import a .sdoc file, please use "share" or "open in other app" in a file manage app.
 
 4. Test if it can successfully export file before wirtting, avoid letting your efforts go waste.
 
